@@ -21,6 +21,12 @@ I'm a Python Developer from Cameroon.
 
 <img align="left" alt="django" src="https://img.shields.io/badge/django%20-%2320232a.svg?&style=for-the-badge&logo=django&logoColor=%2361DAFB" />
 
+<img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%2320232a.svg?&style=for-the-badge&logo=flask&logoColor=%2361DAFB" />
+
+<img align="left" alt="automation" src="https://img.shields.io/badge/automation%20-%2320232a.svg?&style=for-the-badge&logo=automation&logoColor=%2361DAFB" />
+
+<img align="left" alt="web_scraping" src="https://img.shields.io/badge/web_scraping%20-%2320232a.svg?&style=for-the-badge&logo=web_scraping&logoColor=%2361DAFB" />
+
 <img align="left" alt="js" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
