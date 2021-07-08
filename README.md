@@ -29,8 +29,6 @@ I'm a Python Developer from Cameroon.
 
 <img align="left" alt="js" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 
-<img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
-
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB" />
 
 <br>
