@@ -2,6 +2,7 @@
 I'm a Python Developer from Cameroon.
 
 - 🔭 I’m currently working on multiple Python Projects to improve my coding & programming skills.
+- 🔭 I’m looking for a job in tech, mostly for Python Jobs.
 - 🌱 I’m currently learning Algorithms & Data Structures in depth.
 - 👯 I’m looking to collaborate on any Python projects.
 - 🤔 I’m looking for help with Python, Algorithms & Data Structures.
