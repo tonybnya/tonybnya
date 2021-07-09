@@ -1,5 +1,6 @@
 ### Hello, World! 👋
 I'm a Python Developer from Cameroon.
+Specialist in Nothing, but Curious about Everything.
 
 - 🔭 I’m currently working on multiple Python Projects to improve my coding & programming skills.
 - 🔭 I’m looking for a job in tech, mostly for Python Jobs.
