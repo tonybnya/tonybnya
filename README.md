@@ -2,14 +2,14 @@
 I'm a Python Developer from Cameroon.
 Specialist in Nothing, but Curious about Everything.
 
-- 🔭 I’m currently working on multiple Python Projects to improve my coding & programming skills.
-- 🔭 I’m looking for a job in tech, mostly for Python Jobs.
-- 🌱 I’m currently learning Algorithms & Data Structures in depth.
-- 👯 I’m looking to collaborate on any Python projects.
-- 🤔 I’m looking for help with Python, Algorithms & Data Structures.
+- I’m currently working on multiple Python Projects to improve my coding & programming skills.
+- I’m looking for a job in tech, mostly for Python Jobs.
+- I’m currently learning Algorithms & Data Structures in depth.
+- I’m looking to collaborate on any Python projects.
+- I’m looking for help with Python, Algorithms & Data Structures.
 <br>
 
-## Connect with me
+## CONNECT WITH ME
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tony-b-nya-64a2b690/)
 
@@ -22,7 +22,7 @@ Specialist in Nothing, but Curious about Everything.
 <br>
 <br>
 
-## Skills
+## SKILLS
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 
 <img align="left" alt="django" src="https://img.shields.io/badge/django%20-%2320232a.svg?&style=for-the-badge&logo=django&logoColor=%2361DAFB" />
@@ -36,6 +36,10 @@ Specialist in Nothing, but Curious about Everything.
 <img align="left" alt="github" src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />
 
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
+
+<img align="left" alt="algorithms" src="https://img.shields.io/badge/algorithms%20-%2320232a.svg?&style=for-the-badge&logo=algorithms&logoColor=%2361DAFB" />
+
+<img align="left" alt="algorithms" src="https://img.shields.io/badge/data_structures%20-%2320232a.svg?&style=for-the-badge&logo=data_structures&logoColor=%2361DAFB" />
 
 <br>
 <br>
