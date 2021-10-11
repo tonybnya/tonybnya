@@ -37,13 +37,7 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=%2361DAFB" />
 
-<img align="left" alt="github" src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />
-
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
-
-<img align="left" alt="algorithms" src="https://img.shields.io/badge/algorithms%20-%2320232a.svg?&style=for-the-badge&logo=algorithms&logoColor=%2361DAFB" />
-
-<img align="left" alt="data_structures" src="https://img.shields.io/badge/data_structures%20-%2320232a.svg?&style=for-the-badge&logo=data_structures&logoColor=%2361DAFB" />
 
 <br>
 <br>
