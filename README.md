@@ -29,6 +29,10 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%2320232a.svg?&style=for-the-badge&logo=flask&logoColor=%2361DAFB" />
 
+<img align="left" alt="html5" src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
+
+<img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%2361DAFB" />
+
 <img align="left" alt="js" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=%2361DAFB" />
@@ -39,7 +43,7 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="algorithms" src="https://img.shields.io/badge/algorithms%20-%2320232a.svg?&style=for-the-badge&logo=algorithms&logoColor=%2361DAFB" />
 
-<img align="left" alt="algorithms" src="https://img.shields.io/badge/data_structures%20-%2320232a.svg?&style=for-the-badge&logo=data_structures&logoColor=%2361DAFB" />
+<img align="left" alt="data_structures" src="https://img.shields.io/badge/data_structures%20-%2320232a.svg?&style=for-the-badge&logo=data_structures&logoColor=%2361DAFB" />
 
 <br>
 <br>
