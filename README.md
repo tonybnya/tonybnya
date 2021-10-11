@@ -22,7 +22,7 @@ Specialist in Nothing, but Curious about Everything.
 <br>
 <br>
 
-## SKILLS
+## SKILLS & KNOWLEDGE
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 
 <img align="left" alt="django" src="https://img.shields.io/badge/django%20-%2320232a.svg?&style=for-the-badge&logo=django&logoColor=%2361DAFB" />
