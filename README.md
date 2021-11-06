@@ -39,5 +39,11 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
 
+<img align="left" alt="vim" src="https://img.shields.io/badge/vim%20-%2320232a.svg?&style=for-the-badge&logo=vim&logoColor=%2361DAFB" />
+
+<img align="left" alt="gnu" src="https://img.shields.io/badge/gnu%20-%2320232a.svg?&style=for-the-badge&logo=gnu&logoColor=%2361DAFB" />
+
+<img align="left" alt="vscode" src="https://img.shields.io/badge/visualstudiocode%20-%2320232a.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%2361DAFB" />
+
 <br>
 <br>
