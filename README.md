@@ -45,5 +45,7 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="vscode" src="https://img.shields.io/badge/visualstudiocode%20-%2320232a.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%2361DAFB" />
 
+<img align="left" alt="json" src="https://img.shields.io/badge/json%20-%2320232a.svg?&style=for-the-badge&logo=json&logoColor=%2361DAFB" />
+
 <br>
 <br>
