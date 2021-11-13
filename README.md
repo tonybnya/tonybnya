@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/tonybnya"><img src="https://api.daily.dev/devcards/71fe3f9214684b64bb3bca4a41a71d90.png?r=ise" width="400" alt="Tony B. NYA's Dev Card"/></a>
-
 ### Hello, World! 👋
 I'm a Python & Web Developer from Cameroon.
 Specialist in Nothing, but Curious about Everything.
