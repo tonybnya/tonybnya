@@ -36,6 +36,8 @@ Specialist in Nothing, but Curious about Everything.
 
 <img align="left" alt="js" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=%2361DAFB" />
 
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" />
@@ -47,6 +49,11 @@ Specialist in Nothing, but Curious about Everything.
 <img align="left" alt="vscode" src="https://img.shields.io/badge/visualstudiocode%20-%2320232a.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%2361DAFB" />
 
 <img align="left" alt="json" src="https://img.shields.io/badge/json%20-%2320232a.svg?&style=for-the-badge&logo=json&logoColor=%2361DAFB" />
+
+<img align="left" alt="notion" src="https://img.shields.io/badge/notion%20-%2320232a.svg?&style=for-the-badge&logo=notion&logoColor=%2361DAFB" />
+
+<img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&logo=figma&logoColor=%2361DAFB" />
+
 
 <br>
 <br>
