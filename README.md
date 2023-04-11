@@ -1,14 +1,13 @@
 <a href="https://app.daily.dev/tonybnya"><img src="https://api.daily.dev/devcards/71fe3f9214684b64bb3bca4a41a71d90.png?r=f8j" width="400" alt="Tony B. NYA's Dev Card"/></a>
 
 # 💫About Me :
-I'm a Python & Web Developer from Cameroon.
-I’m currently working on multiple Python & Web Projects to improve my coding & programming skills.
-I’m looking for a job in tech, mostly for Python & Web Dev Jobs.
-I’m currently learning Algorithms & Data Structures in depth.
-I’m looking to collaborate on any Python or Web Dev projects.
-I’m looking for help with Python, Web Dev, Algorithms & Data Structures.
+As a professional with a Bachelor's Degree in Computer Science and experience in Diplomacy and Administration, I have developed a unique set of skills and expertise that allow me to excel in various fields. Through my journey, I discovered my passion for technology and decided to pursue a career in Software Engineering. I am currently enrolled in a 12-month Software Engineering Program with ALX to transition back into the tech industry.
 
+Throughout my career, I have honed my skills in project management, problem-solving, and collaboration. My experience working in Diplomacy and Administration has taught me the importance of communication, adaptability, and attention to detail. I have also successfully passed various certifications that have helped me build a strong foundation in software development.
 
+My ultimate career goal is to become a Software Engineer where I can combine my passion for technology with my skills in project management and problem-solving. I am eager to leverage my diverse background to bring a unique perspective to any team I work with. I am also excited to continue learning and growing as a professional in the tech industry.
+
+I am always open to connecting with like-minded professionals and am excited about new opportunities to collaborate and make a positive impact. Please feel free to reach out and connect with me.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nyatb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonybnya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonybnya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tonybnya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tonybnya) 
