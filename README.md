@@ -1,11 +1,13 @@
 <a href="https://app.daily.dev/tonybnya"><img src="https://api.daily.dev/devcards/71fe3f9214684b64bb3bca4a41a71d90.png?r=f8j" width="400" alt="Tony B. NYA's Dev Card"/></a>
 
+<img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" alt="ALX SE Graduation Background"/>
+
 # 💫About Me :
-As a professional with a Bachelor's Degree in Computer Science and experience in Diplomacy and Administration, I have developed a unique set of skills and expertise that allow me to excel in various fields. Through my journey, I discovered my passion for technology and decided to pursue a career in Software Engineering. I am currently enrolled in a 12-month Software Engineering Program with ALX to transition back into the tech industry.
+As a professional with a Bachelor's Degree in Computer Science and experience in Diplomacy and Administration, I have developed a unique set of skills and expertise that allow me to excel in various fields. Through my journey, I discovered my passion for technology and decided to pursue a career in Software Engineering. I am also a graduated Software Engineer from [ALX Africa](https://www.alxafrica.com/).
 
 Throughout my career, I have honed my skills in project management, problem-solving, and collaboration. My experience working in Diplomacy and Administration has taught me the importance of communication, adaptability, and attention to detail. I have also successfully passed various certifications that have helped me build a strong foundation in software development.
 
-My ultimate career goal is to become a Software Engineer where I can combine my passion for technology with my skills in project management and problem-solving. I am eager to leverage my diverse background to bring a unique perspective to any team I work with. I am also excited to continue learning and growing as a professional in the tech industry.
+My ultimate career goal is to become a great Problem Solver Software Engineer where I can combine my passion for technology with my skills in project management and problem-solving. I am eager to leverage my diverse background to bring a unique perspective to any team I work with. I am also excited to continue learning and growing as a professional in the tech industry.
 
 I am always open to connecting with like-minded professionals and am excited about new opportunities to collaborate and make a positive impact. Please feel free to reach out and connect with me.
 
