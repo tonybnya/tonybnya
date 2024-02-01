@@ -1,9 +1,9 @@
 <img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" alt="ALX SE Graduation Background"/>
 
 # 💫About Me :
-As a Computer Science graduate with experience in Diplomacy and Administration, I've cultivated a diverse skill set. My journey led me to Software Engineering, graduating from [ALX Africa](https://www.alxafrica.com/).
+<p style="text-align: justify">As a Computer Science graduate with experience in Diplomacy and Administration, I've cultivated a diverse skill set. My journey led me to Software Engineering, graduating from [ALX Africa](https://www.alxafrica.com/).</p>
 
-Proficient in problem-solving, and collaboration, my background emphasizes communication and adaptability. Holder of a Bachelor's Degree in Computer Science, multi-certified in software development and soft Skills certified by [Hello Elton](https://www.helloelton.com/) I aspire to be a Problem Solver Software Engineer, integrating technology, project management, and problem-solving. Eager to contribute a unique perspective, I'm committed to continuous growth and collaboration. Let's connect and explore opportunities for positive impact.
+<p style="text-align: justify">Proficient in problem-solving, and collaboration, my background emphasizes communication and adaptability. Holder of a Bachelor's Degree in Computer Science, multi-certified in software development and soft Skills certified by [Hello Elton](https://www.helloelton.com/) I aspire to be a Problem Solver Software Engineer, integrating technology, project management, and problem-solving. Eager to contribute a unique perspective, I'm committed to continuous growth and collaboration. Let's connect and explore opportunities for positive impact.</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nyatb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonybnya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonybnya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tonybnya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tonybnya) 
