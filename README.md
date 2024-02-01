@@ -1,13 +1,9 @@
 <img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" alt="ALX SE Graduation Background"/>
 
 # 💫About Me :
-As a professional with a Bachelor's Degree in Computer Science and experience in Diplomacy and Administration, I have developed a unique set of skills and expertise that allow me to excel in various fields. Through my journey, I discovered my passion for technology and decided to pursue a career in Software Engineering. I am also a graduated Software Engineer from [ALX Africa](https://www.alxafrica.com/).
+As a Computer Science graduate with experience in Diplomacy and Administration, I've cultivated a diverse skill set. My journey led me to Software Engineering, graduating from [ALX Africa](https://www.alxafrica.com/).
 
-Throughout my career, I have honed my skills in project management, problem-solving, and collaboration. My experience working in Diplomacy and Administration has taught me the importance of communication, adaptability, and attention to detail. I have also successfully passed various certifications that have helped me build a strong foundation in software development.
-
-My ultimate career goal is to become a great Problem Solver Software Engineer where I can combine my passion for technology with my skills in project management and problem-solving. I am eager to leverage my diverse background to bring a unique perspective to any team I work with. I am also excited to continue learning and growing as a professional in the tech industry.
-
-I am always open to connecting with like-minded professionals and am excited about new opportunities to collaborate and make a positive impact. Please feel free to reach out and connect with me.
+Proficient in problem-solving, and collaboration, my background emphasizes communication and adaptability. Holder of a Bachelor's Degree in Computer Science, multi-certified in software development and soft Skills certified by [Hello Elton](https://www.helloelton.com/) I aspire to be a Problem Solver Software Engineer, integrating technology, project management, and problem-solving. Eager to contribute a unique perspective, I'm committed to continuous growth and collaboration. Let's connect and explore opportunities for positive impact.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nyatb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonybnya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonybnya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tonybnya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tonybnya) 
