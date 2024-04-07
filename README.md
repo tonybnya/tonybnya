@@ -1,9 +1,9 @@
-<img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" alt="ALX SE Graduation Background"/>
+<img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" style="border-radius: 5px" alt="ALX SE Graduation Background"/>
 
 # 💫About Me :
 Dedicated and adaptable professional with a Bachelor's Degree in Computer Science and 8 years of background in Diplomacy and Administration. Graduated from the 12-month Software Engineering Program with [ALX](https://www.alxafrica.com), 6-month Web Development by [Sayna Academy](https://sayna.io/), and the inaugural cohort of the [All In Africa Program](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) by GitHub. Skilled in project management, problem-solving, and collaboration, with a strong foundation in software development and soft skills certified by [Hello Elton](https://www.helloelton.com). Passionate about leveraging technology to drive innovation and solve complex challenges.
 
-<img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="display: block; margin-left: auto; margin-left: auto; width: 20%" alt="All In Open Source's Badge"/>
+<img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nyatb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonybnya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonybnya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tonybnya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tonybnya) 
