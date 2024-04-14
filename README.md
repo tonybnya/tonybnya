@@ -1,7 +1,9 @@
 <img src="https://i.postimg.cc/1zMN1y8V/ALX-SE-Graduation-Background.png" style="border-radius: 5px" alt="ALX SE Graduation Background"/>
 
 # 💫About Me :
-Dedicated and adaptable professional with a Bachelor's Degree in Computer Science and 8 years of background in Diplomacy and Administration. Graduated from the 12-month Software Engineering Program with [ALX](https://www.alxafrica.com), 6-month Web Development by [Sayna Academy](https://sayna.io/), and the inaugural cohort of the [All In Africa Program](https://github.blog/2023-10-09-skilling-african-developers-through-all-in-africa/) by GitHub. Skilled in project management, problem-solving, and collaboration, with a strong foundation in software development and soft skills certified by [Hello Elton](https://www.helloelton.com). Passionate about leveraging technology to drive innovation and solve complex challenges.
+✨ Versatile professional blending technical expertise in full-stack software engineering with a background in diplomacy and public administration, offering a unique perspective on global challenges.
+✨ Demonstrated commitment to continuous learning and skills development through completion of specialized programs in software engineering, web development, and AI career essentials.
+✨ Proven track record of success in project management, problem-solving, and collaboration, equipped with strong soft skills certified by industry standards.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
