@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/TPmp2qRw/brewfiles.png" style="border-radius: 5px" alt="ALX SE Graduation Background"/>
+<img src="https://i.postimg.cc/TPmp2qRw/brewfiles.png" style="border-radius: 5px" alt="Brewfiles General Personality"/>
 
 # 💫About Me :
 ✨ Versatile professional blending technical expertise in full-stack software engineering with a background in diplomacy and public administration, offering a unique perspective on global challenges.
