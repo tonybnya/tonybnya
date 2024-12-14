@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/6QtBbMcd/brewfiles.png" style="border-radius: 5px" alt="Brewfiles General Personality"/>
 
 # 💫About Me :
-✨ Versatile professional blending technical expertise in full-stack software engineering with a background in diplomacy and public administration, offering a unique perspective on global challenges.
+✨ Skilled professional blending technical expertise in full-stack software engineering with a background in diplomacy and public administration, offering a unique perspective on global challenges.
 ✨ Demonstrated commitment to continuous learning and skills development through completion of specialized programs in software engineering, web development, and AI career essentials.
 ✨ Proven track record of success in project management, problem-solving, and collaboration, equipped with strong soft skills certified by industry standards.
 
