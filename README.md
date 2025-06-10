@@ -1,9 +1,9 @@
 <img src="https://i.postimg.cc/6QtBbMcd/brewfiles.png" style="border-radius: 5px" alt="Brewfiles General Personality"/>
 
 # 💫About Me :
-✨ Skilled professional blending technical expertise in full-stack software engineering with a background in diplomacy and public administration, offering a unique perspective on global challenges.
-✨ Demonstrated commitment to continuous learning and skills development through completion of specialized programs in software engineering, web development, and AI career essentials.
-✨ Proven track record of success in project management, problem-solving, and collaboration, equipped with strong soft skills certified by industry standards.
+I’m a Full Stack Software Engineer with a strong focus on backend architecture, clean API design, and scalable frontend interfaces. I'm specialized in Python (Flask, FastAPI, Django), JavaScript/TypeScript (Node.js, React, Angular), and modern DevOps practices — backed by hands-on experience leading and building production-grade systems for real-world applications.
+
+I’m also passionate about Data Structures, Algorithms, and System Design — which gives me the ability to break down complex problems into clear, efficient solutions.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
