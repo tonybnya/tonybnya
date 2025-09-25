@@ -1,9 +1,7 @@
 <img src="https://i.postimg.cc/6QtBbMcd/brewfiles.png" style="border-radius: 5px" alt="Brewfiles General Personality"/>
 
 # 💫 About Me :
-I’m a Full Stack Software Engineer with a strong focus on backend architecture, clean API design, and scalable frontend interfaces. I'm specialized in Python (Flask, FastAPI, Django), JavaScript/TypeScript (Node.js, React, Angular), and modern DevOps practices — backed by hands-on experience leading and building production-grade systems for real-world applications.
-
-I’m also passionate about Data Structures, Algorithms, and System Design — which gives me the ability to break down complex problems into clear, efficient solutions.
+I’m a Backend Software Engineer specialized in Python (FastAPI, Django, Flask) and the design of scalable, maintainable APIs. My expertise spans API architecture, microservices, and service-to-service communication, with hands-on experience building secure, production-grade systems.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
