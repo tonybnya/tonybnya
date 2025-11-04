@@ -10,9 +10,7 @@ I’m a Backend Software Engineer specialized in Python (FastAPI, Django, Flask)
 
 OR
 
-You can contact directly via:
-Phone: (+237) 697 79 88 53
-Email: tonybnya@gmail.com
+You can contact me directly via: (+237) 697 79 88 53 (Mobile & WhatsApp) | tonybnya@gmail.com
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tonybnya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
