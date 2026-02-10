@@ -3,7 +3,7 @@
 Backend Engineer specializing in the design of robust APIs and backend architectures for highly complex projects (SaaS, data, research, Fintech, business platforms).
 I help startups, researchers, and organizations transform complex technical ideas into reliable, maintainable, and scalable systems, primarily using Python (Flask, FastAPI, Django).
 
-- Notable project: development of a technology glossary application used in a PhD thesis (Canada), 80% validated by the academic jury.
+- Notable project: development of a technology glossary application used in a PhD thesis (Dalhousie University, Halifax, Canada), 80% validated by the academic jury.
 - Business results: +20% bookings and +35% customer conversion on e-commerce platforms developed for local businesses.
 
 My unusual career path (nearly 10 years in diplomacy before tech) allows me to work effectively with non-technical stakeholders and international teams.
