@@ -1,4 +1,5 @@
 # 💫 About Me :
+
 Backend Engineer specializing in the design of robust APIs and backend architectures for highly complex projects (SaaS, data, research, Fintech, business platforms).
 I help startups, researchers, and organizations transform complex technical ideas into reliable, maintainable, and scalable systems, primarily using Python (Flask, FastAPI, Django).
 
@@ -6,7 +7,7 @@ I help startups, researchers, and organizations transform complex technical idea
 - Business results: +20% bookings and +35% customer conversion on e-commerce platforms developed for local businesses.
 
 My unusual career path (nearly 10 years in diplomacy before tech) allows me to work effectively with non-technical stakeholders and international teams.
-Open to backend-heavy collaborations, freelance assignments, projects with international impact, or employment with a clear career progression.
+Open to backend-heavy collaborations, freelance assignments, projects with international impact, or employment with a clear career progression and impact rewardings.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
