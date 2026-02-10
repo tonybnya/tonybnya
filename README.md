@@ -6,7 +6,7 @@ I help startups, researchers, and organizations transform complex technical idea
 - Business results: +20% bookings and +35% customer conversion on e-commerce platforms developed for local businesses.
 
 My unusual career path (nearly 10 years in diplomacy before tech) allows me to work effectively with non-technical stakeholders and international teams.
-Open to backend-heavy collaborations, freelance assignments, projects with international impact, or employment with a clear career ladder.
+Open to backend-heavy collaborations, freelance assignments, projects with international impact, or employment with a clear career progression.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
