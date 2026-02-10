@@ -1,8 +1,12 @@
-<img src="https://i.postimg.cc/6QtBbMcd/brewfiles.png" style="border-radius: 5px" alt="Brewfiles General Personality"/>
-
 # 💫 About Me :
-- I’m Tony Blondeau NYA, a software engineer with 4+ years experience specialized in backend engineering with a unique background. I spent nearly a decade working in Diplomacy before transitioning into technology. That experience shaped my ability to communicate clearly, manage stakeholders, and analyze complex systems; skills I now bring into every engineering project I take on.
-- I focus on backend with Python (FastAPI, Django, Flask), API, System Design, DSA, for 70% of my time; frontend with JavaScript, React, Angular, Vue, for 10%; to design, implement, and deliver scalable and maintainable apps.
+Backend Engineer specializing in the design of robust APIs and backend architectures for highly complex projects (SaaS, data, research, Fintech, business platforms).
+I help startups, researchers, and organizations transform complex technical ideas into reliable, maintainable, and scalable systems, primarily using Python (Flask, FastAPI, Django).
+
+- Notable project: development of a technology glossary application used in a PhD thesis (Canada), 80% validated by the academic jury.
+- Business results: +20% bookings and +35% customer conversion on e-commerce platforms developed for local businesses.
+
+My unusual career path (nearly 10 years in diplomacy before tech) allows me to work effectively with non-technical stakeholders and international teams.
+Open to backend-heavy collaborations, freelance assignments, projects with international impact, or employment with a clear career ladder.
 
 <img src="https://i.postimg.cc/59GNyMC2/all-in-open-source-contributor.png" style="width: 20%" alt="All In Open Source's Badge"/>
 
